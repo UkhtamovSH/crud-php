@@ -1,11 +1,18 @@
 <?php
 
 // $db = mysqli_connect('localhost', 'root', 'root', 'crud-php');
+// $db = mysqli_connect(
+//   'localhost',
+//   'id17247656_phpcrud777user',
+//   '{X0%?xF864NXM[>[',
+//   'id17247656_phpcrud777'
+// );
+
 $db = mysqli_connect(
-  'localhost',
-  'id17247656_phpcrud777user',
-  '{X0%?xF864NXM[>[',
-  'id17247656_phpcrud777'
+  'sql211.epizy.com',
+  'epiz_29195914',
+  '7777fight7777"gmail.com',
+  'epiz_29195914_mycrudphp'
 );
 
 
