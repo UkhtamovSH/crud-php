@@ -11,7 +11,7 @@
 $db = mysqli_connect(
   'sql211.epizy.com',
   'epiz_29195914',
-  '7777fight7777"gmail.com',
+  'X3L54QIFTg59',
   'epiz_29195914_mycrudphp'
 );
 
